@@ -1,6 +1,6 @@
 
-package prova.a3;
-public class ProvaA3{
+package pr.a3;
+public class PrA3{
     public static void main(String[] args) {
         
         Pessoa p1 = new Pessoa();
@@ -8,9 +8,9 @@ public class ProvaA3{
         Professor p3 = new Professor();
         Funcionario p4 = new Funcionario();
         
-        p1.setNome("Natan");
+        p1.setNome("Nan");
         p2.setNome("Nathalia");
-        p3.setNome("Nathan");
+        p3.setNome("NaAan");
         p4.setNome("Maew");
         
         p1.setSexo ("M");
